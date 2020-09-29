@@ -1,0 +1,13 @@
+E:\taller\TP2\Punto3\obj\Debug\netcoreapp3.1\Punto3.csprojAssemblyReference.cache
+E:\taller\TP2\Punto3\obj\Debug\netcoreapp3.1\Punto3.AssemblyInfoInputs.cache
+E:\taller\TP2\Punto3\obj\Debug\netcoreapp3.1\Punto3.AssemblyInfo.cs
+E:\taller\TP2\Punto3\obj\Debug\netcoreapp3.1\Punto3.csproj.CoreCompileInputs.cache
+E:\taller\TP2\Punto3\bin\Debug\netcoreapp3.1\Punto3.exe
+E:\taller\TP2\Punto3\bin\Debug\netcoreapp3.1\Punto3.deps.json
+E:\taller\TP2\Punto3\bin\Debug\netcoreapp3.1\Punto3.runtimeconfig.json
+E:\taller\TP2\Punto3\bin\Debug\netcoreapp3.1\Punto3.runtimeconfig.dev.json
+E:\taller\TP2\Punto3\bin\Debug\netcoreapp3.1\Punto3.dll
+E:\taller\TP2\Punto3\bin\Debug\netcoreapp3.1\Punto3.pdb
+E:\taller\TP2\Punto3\obj\Debug\netcoreapp3.1\Punto3.dll
+E:\taller\TP2\Punto3\obj\Debug\netcoreapp3.1\Punto3.pdb
+E:\taller\TP2\Punto3\obj\Debug\netcoreapp3.1\Punto3.genruntimeconfig.cache

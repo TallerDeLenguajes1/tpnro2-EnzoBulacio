@@ -1,0 +1,13 @@
+E:\taller\TP2\TP2\bin\Debug\netcoreapp3.1\TP2.exe
+E:\taller\TP2\TP2\bin\Debug\netcoreapp3.1\TP2.deps.json
+E:\taller\TP2\TP2\bin\Debug\netcoreapp3.1\TP2.runtimeconfig.json
+E:\taller\TP2\TP2\bin\Debug\netcoreapp3.1\TP2.runtimeconfig.dev.json
+E:\taller\TP2\TP2\bin\Debug\netcoreapp3.1\TP2.dll
+E:\taller\TP2\TP2\bin\Debug\netcoreapp3.1\TP2.pdb
+E:\taller\TP2\TP2\obj\Debug\netcoreapp3.1\TP2.csprojAssemblyReference.cache
+E:\taller\TP2\TP2\obj\Debug\netcoreapp3.1\TP2.AssemblyInfoInputs.cache
+E:\taller\TP2\TP2\obj\Debug\netcoreapp3.1\TP2.AssemblyInfo.cs
+E:\taller\TP2\TP2\obj\Debug\netcoreapp3.1\TP2.csproj.CoreCompileInputs.cache
+E:\taller\TP2\TP2\obj\Debug\netcoreapp3.1\TP2.dll
+E:\taller\TP2\TP2\obj\Debug\netcoreapp3.1\TP2.pdb
+E:\taller\TP2\TP2\obj\Debug\netcoreapp3.1\TP2.genruntimeconfig.cache
